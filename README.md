@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+November 19, 2018
 
 ### Student Name:  
-(First and Last Name)
+Dathan Busby
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment we help complete a photo gallery webpage.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://dab17g.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. We learned some more about how to add interactivity based on user clicks.
+2. We reinfroced our ideas of how to use a function inside of another function.
+3. We learned how to attach nodes to the DOM tree or to other nodes.
 
